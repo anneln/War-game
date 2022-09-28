@@ -2,7 +2,7 @@ html, body {
     margin: 0;
     padding: 0;
     font-family: "Exo 2", sans-serif;
-    background-image: url(images/green.jpg);
+    background-image: url('images/greenCarpet.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%; 
@@ -37,7 +37,7 @@ div.top > p {
 
 /*Cards*/
 .slot{
-    border: 3px solid black;
+    border: 3px solid #fff100;
     border-radius: 5px;
     height: 130px;
     width: calc(130px *5/7);
