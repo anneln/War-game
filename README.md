@@ -1,4 +1,6 @@
-# coed54951a9025e3aa3984018
+# Cards war game
+
+Do a war game by using API
 
 ## About Scrimba
 
