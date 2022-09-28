@@ -42,8 +42,8 @@ div.top > p {
 .slot{
     border: 3px solid #fff100;
     border-radius: 5px;
-    height: 130px;
-    width: calc(130px *5/7);
+    height: 30vh;
+    width: calc(30vh *5/7);
     margin: 1em auto;
 }
 
