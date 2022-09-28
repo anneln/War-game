@@ -36,7 +36,7 @@ async function drawTwoCard(){
     if(data.remaining === 0){
         endOfGame()
         if(computerScore > myScore){
-            logMessage.textContent = "Computer won the game🖥️..☠️!"
+            logMessage.textContent = "Computer won the game..☠️!"
             } else if (myScore > computerScore){
                 logMessage.textContent = "🎉 You won the game 🎉!"
                 } else {
