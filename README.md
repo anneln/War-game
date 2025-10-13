@@ -8,4 +8,4 @@ Do a war game by using API
 - use callbacks
 - use promises
 
--[view link](https://anneln.github.io/War-game/)
+-[Play war game](https://anneln.github.io/War-game/)
